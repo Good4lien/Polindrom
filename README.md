@@ -10,7 +10,7 @@ The word palindrome was introduced by English poet and writer Henry Peacham in 1
 ### Code:
 ![5](https://user-images.githubusercontent.com/54048747/222351761-aab5eb03-3226-4fd5-8646-d18d77feb999.JPG)
 
-In Python [::-1] reversing a list. In Python, it is also possible to use negative indexing  to access values of a sequence.
+In Python [::-1] reversing a list. It is also possible to use negative indexing  to access values of a sequence.
 
 ### Resoult:
 ![6](https://user-images.githubusercontent.com/54048747/222351788-cbd04c0a-c855-414e-881d-0d11847598d5.JPG)
